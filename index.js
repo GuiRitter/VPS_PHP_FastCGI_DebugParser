@@ -1,3 +1,5 @@
+// https://web.archive.org/web/20240404205855/https://www.nginx.com/resources/wiki/start/topics/examples/phpfcgi/
+
 const readline = require('readline');
 
 const terminalInterface = readline.createInterface({
