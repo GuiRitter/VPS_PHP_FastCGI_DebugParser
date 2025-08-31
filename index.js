@@ -50,7 +50,6 @@ const map = {
 };
 
 let treatInput = input => {
-	console.log(`You entered: ${input}`);
 	terminalInterface.close();
 
 	// get the index of the occurence inside of the input of each of the keys from map
