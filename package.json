@@ -1,0 +1,11 @@
+{
+  "name": "fast_c_g_i_debug",
+  "version": "1.0.0",
+  "description": "parse the output of test.php to compare with the example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Alan Ritter",
+  "license": "MIT"
+}
